@@ -15,7 +15,7 @@ class Node:
         self.next = n
 
     # Feel free to add methods that you wrote from your previous homework to add to this
-    # class definition, if you find it helpful, or want to use it.
+    # class definition, if you find it helpful, or want to use it. adfuisuifhdsui
 
 class Stack:
     '''
